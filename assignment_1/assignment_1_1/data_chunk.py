@@ -99,7 +99,7 @@ def arrange_rows(paragraphs, connector='\t'):
     return row_data, row_lines_matrix, all_space_width_list
 
 
-def create_document_string(page, prefix='### Input:\n\n', connector='\t', simple_join=False):
+def create_document_string(page, prefix='### Input:\n\n', connector='\t', simple_join=True):
     """
     Takes in a page from idp-doc.
     chunk the document in two ways:
@@ -124,8 +124,9 @@ def create_document_string(page, prefix='### Input:\n\n', connector='\t', simple
             document += text + '\n'
         document += '\n'
     else:
-        # todo: Question 1
-        pass
+         # Join all paragraphs into a single string
+        paragraphs = [para['text'] for para in page['paragraphs']]
+        document += '\n\n'.join(paragraphs) + '\n'
     return document
 
 
