@@ -1,0 +1,2108 @@
+{
+  "pages": [
+    {
+      "bbox": [
+        0,
+        0,
+        2362,
+        3150
+      ],
+      "confidence": 0.9,
+      "page_id": 3,
+      "paragraphs": [
+        {
+          "bbox": [
+            248,
+            291,
+            977,
+            506
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 1,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                291,
+                977,
+                506
+              ],
+              "text": "Dear Shareowners,",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "67c446e5-c6f1-4850-b837-9071cd0a32da"
+            }
+          ],
+          "text": "Dear Shareowners,",
+          "uuid": "4bd71e0b-d059-4a80-857f-3332e57bc56d"
+        },
+        {
+          "bbox": [
+            246,
+            571,
+            1062,
+            752
+          ],
+          "confidence": 0.87,
+          "paragraph_id": 2,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                571,
+                1062,
+                752
+              ],
+              "text": "Fiscal 2022 was another very strong year as the execution of our integrated strategies continued to yield strong sales, earnings and cash results in an incredibly difficult operating environment.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "2d3e38c8-87e2-49ff-8f69-b132de03eaee"
+            }
+          ],
+          "text": "Fiscal 2022 was another very strong year as the execution of our integrated strategies continued to yield strong sales, earnings and cash results in an incredibly difficult operating environment.",
+          "uuid": "42fc4188-12b0-4db1-888d-4c2933216a1d"
+        },
+        {
+          "bbox": [
+            244,
+            801,
+            1091,
+            1032
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 3,
+          "lines": [
+            {
+              "bbox": [
+                244,
+                801,
+                1091,
+                1032
+              ],
+              "text": "Your Company delivered broad-based and strong top-line growth across our categories and regions, earnings growth in the face of significant cost headwinds, and continued strong cash return to you, P&G's shareowners.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "a10410d3-c2da-4c35-8f5f-e1f295da2348"
+            }
+          ],
+          "text": "Your Company delivered broad-based and strong top-line growth across our categories and regions, earnings growth in the face of significant cost headwinds, and continued strong cash return to you, P&G's shareowners.",
+          "uuid": "d1e8c3aa-7fa8-40f9-985c-fe0a5366fbf0"
+        },
+        {
+          "bbox": [
+            248,
+            1081,
+            1172,
+            1162
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 4,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                1081,
+                1172,
+                1162
+              ],
+              "text": "For the fiscal year, organic sales grew 7%, core earnings per share grew 3%, currency-neutral core earnings",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "75160a70-2915-4d51-bd76-6ab982127d4a"
+            }
+          ],
+          "text": "For the fiscal year, organic sales grew 7%, core earnings per share grew 3%, currency-neutral core earnings",
+          "uuid": "cd6f51b9-e567-412a-88b2-e5473e9f20f3"
+        },
+        {
+          "bbox": [
+            248,
+            1181,
+            1083,
+            1262
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 5,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                1181,
+                1083,
+                1262
+              ],
+              "text": "per share were up 5%, and adjusted free cash flow productivity was 93%.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "6843c062-1bbe-488f-a408-47608bef19d0"
+            }
+          ],
+          "text": "per share were up 5%, and adjusted free cash flow productivity was 93%.",
+          "uuid": "8aaae375-8b25-4b32-be99-f56f94885e40"
+        },
+        {
+          "bbox": [
+            247,
+            1311,
+            1139,
+            1442
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 6,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                1311,
+                1139,
+                1442
+              ],
+              "text": "Organic sales growth of 7% continues our strong top- line momentum, which is up 13% on a two-year stack (across fiscal years 2021 and 2022) and up 19% on a",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "036dc557-45ca-4a75-a488-ac557456db53"
+            }
+          ],
+          "text": "Organic sales growth of 7% continues our strong top- line momentum, which is up 13% on a two-year stack (across fiscal years 2021 and 2022) and up 19% on a",
+          "uuid": "68fe0a45-698d-4f49-b665-cd48411fb182"
+        },
+        {
+          "bbox": [
+            246,
+            1461,
+            1179,
+            1492
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 7,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1461,
+                1179,
+                1492
+              ],
+              "text": "three-year stack (across fiscal years 2020, 2021 and 2022).",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "6777b194-e98d-4547-a618-ed151251266c"
+            }
+          ],
+          "text": "three-year stack (across fiscal years 2020, 2021 and 2022).",
+          "uuid": "11c41ab6-aae0-4ab4-a92c-c76828e6d655"
+        },
+        {
+          "bbox": [
+            247,
+            1541,
+            1177,
+            1872
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 8,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                1541,
+                1177,
+                1872
+              ],
+              "text": "Growth this fiscal year was broad-based across business units, with all 10 of our categories growing organic sales. Personal Health Care grew 20%. Fabric Care and Feminine Care grew double digits. Baby Care was up high single digits. Oral Care and Grooming were up mid-single digits. Hair Care, Home Care, Skin & Personal Care and Family Care each grew low single digits.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "c3473253-4814-433f-b200-559f091c4eb0"
+            }
+          ],
+          "text": "Growth this fiscal year was broad-based across business units, with all 10 of our categories growing organic sales. Personal Health Care grew 20%. Fabric Care and Feminine Care grew double digits. Baby Care was up high single digits. Oral Care and Grooming were up mid-single digits. Hair Care, Home Care, Skin & Personal Care and Family Care each grew low single digits.",
+          "uuid": "354f926a-6263-4af4-8c7e-84f07215e48b"
+        },
+        {
+          "bbox": [
+            246,
+            1921,
+            1046,
+            2006
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 9,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1921,
+                1046,
+                2006
+              ],
+              "text": "Focus markets grew 5% and Enterprise markets were up 10%.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "dc678c9b-6227-4a49-b4ef-528c35a11cc1"
+            }
+          ],
+          "text": "Focus markets grew 5% and Enterprise markets were up 10%.",
+          "uuid": "9655daa9-26e4-478c-a2c3-e25a97b8fe52"
+        },
+        {
+          "bbox": [
+            246,
+            2051,
+            1106,
+            2182
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 10,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2051,
+                1106,
+                2182
+              ],
+              "text": "We delivered strong results in our largest and most profitable market, the United States, with organic sales growing 8%.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "357a6053-ffad-4c46-a0c9-357d0e4a6666"
+            }
+          ],
+          "text": "We delivered strong results in our largest and most profitable market, the United States, with organic sales growing 8%.",
+          "uuid": "4144d2db-7551-4456-a529-c85c9edc2aa5"
+        },
+        {
+          "bbox": [
+            246,
+            2231,
+            1093,
+            2312
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 11,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2231,
+                1093,
+                2312
+              ],
+              "text": "E-commerce sales increased 11%, representing 14% of total Company sales.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "b780da65-ae1c-4d36-9a37-e02b1a6f8c4d"
+            }
+          ],
+          "text": "E-commerce sales increased 11%, representing 14% of total Company sales.",
+          "uuid": "295ae556-3926-45cb-85bc-5a26df36e5bf"
+        },
+        {
+          "bbox": [
+            247,
+            2361,
+            1084,
+            2442
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 12,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                2361,
+                1084,
+                2442
+              ],
+              "text": "Global aggregate market share increased 50 basis points, and 38 of our top 50 category/country",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "c590d9ad-9cbc-4e8b-9257-be6390cc5d86"
+            }
+          ],
+          "text": "Global aggregate market share increased 50 basis points, and 38 of our top 50 category/country",
+          "uuid": "b8de16e5-eb7b-40ea-b182-561f397476e9"
+        },
+        {
+          "bbox": [
+            304,
+            2627,
+            1126,
+            2703
+          ],
+          "confidence": 0.79,
+          "paragraph_id": 13,
+          "lines": [
+            {
+              "bbox": [
+                304,
+                2627,
+                1126,
+                2703
+              ],
+              "text": "+7% +3% 93%",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "d0081079-c3a0-4d6b-af96-5c902fe5e014"
+            }
+          ],
+          "text": "+7% +3% 93%",
+          "uuid": "f9f4c941-827b-42ff-8d4a-ab7198bfbabe"
+        },
+        {
+          "bbox": [
+            632,
+            2858,
+            793,
+            2932
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 14,
+          "lines": [
+            {
+              "bbox": [
+                632,
+                2858,
+                793,
+                2932
+              ],
+              "text": "Core EPS Growth",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "b2e92ef2-b9a4-4369-936b-01dddf39b4c6"
+            }
+          ],
+          "text": "Core EPS Growth",
+          "uuid": "8065d045-c76e-4493-8058-a25fddfe3335"
+        },
+        {
+          "bbox": [
+            899,
+            2855,
+            1151,
+            2988
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 15,
+          "lines": [
+            {
+              "bbox": [
+                899,
+                2855,
+                1151,
+                2988
+              ],
+              "text": "Adjusted Free Cash Flow Productivity",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "f97e0793-f1f1-4f25-a69f-b7643653b21b"
+            }
+          ],
+          "text": "Adjusted Free Cash Flow Productivity",
+          "uuid": "720ee8c3-3dfa-4cf6-a7fd-a0e394b1df33"
+        },
+        {
+          "bbox": [
+            278,
+            2855,
+            524,
+            2932
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 16,
+          "lines": [
+            {
+              "bbox": [
+                278,
+                2855,
+                524,
+                2932
+              ],
+              "text": "Organic Sales Growth",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "52ce47ae-055e-41aa-991a-d41220caa49c"
+            }
+          ],
+          "text": "Organic Sales Growth",
+          "uuid": "d909b733-defb-40a5-8869-e94f1e93079d"
+        },
+        {
+          "bbox": [
+            1396,
+            154,
+            2086,
+            760
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 17,
+          "lines": [
+            {
+              "bbox": [
+                1396,
+                154,
+                2086,
+                760
+              ],
+              "text": " ",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "d745d86f-0394-436b-90c8-ec2cb18feab3"
+            }
+          ],
+          "text": " ",
+          "uuid": "8a2a0d85-ec74-4101-9e99-1a593b82e0de"
+        },
+        {
+          "bbox": [
+            1536,
+            820,
+            1914,
+            848
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 18,
+          "lines": [
+            {
+              "bbox": [
+                1536,
+                820,
+                1914,
+                848
+              ],
+              "text": "JON R. MOELLER",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "2fc5a3e8-aa7c-4ee9-84e3-61f0eed599f5"
+            }
+          ],
+          "text": "JON R. MOELLER",
+          "uuid": "e3391b00-21c3-44be-8e46-d724857b1a00"
+        },
+        {
+          "bbox": [
+            1368,
+            887,
+            2086,
+            966
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 19,
+          "lines": [
+            {
+              "bbox": [
+                1368,
+                887,
+                2086,
+                966
+              ],
+              "text": "Chairman of the Board, President and Chief Executive Officer",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "c304a67c-e322-44ed-9839-584b106973f2"
+            }
+          ],
+          "text": "Chairman of the Board, President and Chief Executive Officer",
+          "uuid": "610c9bb4-d7a8-4fbc-ac1f-0139658f155c"
+        },
+        {
+          "bbox": [
+            1258,
+            1081,
+            2116,
+            1262
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 20,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                1081,
+                2116,
+                1262
+              ],
+              "text": "combinations held or grew share for the year. Importantly, this share growth is broad based. Nine of 10 product categories grew share globally over the past year.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "c154ac2f-91d5-4b8d-b88a-2bf7911af204"
+            }
+          ],
+          "text": "combinations held or grew share for the year. Importantly, this share growth is broad based. Nine of 10 product categories grew share globally over the past year.",
+          "uuid": "b799109a-ddd1-4e73-b40d-095dd009fbfd"
+        },
+        {
+          "bbox": [
+            1258,
+            1308,
+            2156,
+            1492
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 21,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                1308,
+                2156,
+                1492
+              ],
+              "text": "Our bottom-line results include over $3 billion of earnings headwinds fromm commodities, freight and foreign exchange. Despite this, we delivered core EPS growth within our initial guidance range for the year.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "c4be2416-7a94-4478-885c-bf77f4822838"
+            }
+          ],
+          "text": "Our bottom-line results include over $3 billion of earnings headwinds fromm commodities, freight and foreign exchange. Despite this, we delivered core EPS growth within our initial guidance range for the year.",
+          "uuid": "0d4ee76d-6944-4760-9a88-d6baf01a259f"
+        },
+        {
+          "bbox": [
+            1257,
+            1538,
+            2191,
+            2016
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 22,
+          "lines": [
+            {
+              "bbox": [
+                1257,
+                1538,
+                2191,
+                2016
+              ],
+              "text": "We returned nearly $19 billion of value to shareowners through $8.8 billion in dividends and $10 billion in share repurchase. In April, we announced a 5% increase in our dividend. This is the 66th consecutive annual dividend increase, and the 132nd consecutive year in which P&G has paid a dividend. Only seven U.S. publicly traded companies have paid a dividend in more consecutive years than P&G, and only three are recognized to have increased their dividend in more consecutive years than P&GC.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "1da5a849-0f37-4aa9-8312-0b718bf6e552"
+            }
+          ],
+          "text": "We returned nearly $19 billion of value to shareowners through $8.8 billion in dividends and $10 billion in share repurchase. In April, we announced a 5% increase in our dividend. This is the 66th consecutive annual dividend increase, and the 132nd consecutive year in which P&G has paid a dividend. Only seven U.S. publicly traded companies have paid a dividend in more consecutive years than P&G, and only three are recognized to have increased their dividend in more consecutive years than P&GC.",
+          "uuid": "3368891d-0a6b-49b9-8f81-3b4c3f8cf7ee"
+        },
+        {
+          "bbox": [
+            1258,
+            2071,
+            2183,
+            2252
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 23,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                2071,
+                2183,
+                2252
+              ],
+              "text": "In summary, we met or exceeded each of our going-in target ranges for the fiscal year\u2014organic sales growth, core EPS growth, free cash flow productivity and cash returned to shareowners. This is strong performance",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "a1dd5b74-6ed0-404d-b377-353e1071443e"
+            }
+          ],
+          "text": "In summary, we met or exceeded each of our going-in target ranges for the fiscal year\u2014organic sales growth, core EPS growth, free cash flow productivity and cash returned to shareowners. This is strong performance",
+          "uuid": "8eb09477-a1c7-495e-9437-4e9766b83a9b"
+        },
+        {
+          "bbox": [
+            1261,
+            2271,
+            1877,
+            2302
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 24,
+          "lines": [
+            {
+              "bbox": [
+                1261,
+                2271,
+                1877,
+                2302
+              ],
+              "text": "in very difficult operating conditions.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "9a1e6b14-d351-48be-b032-10943e83605b"
+            }
+          ],
+          "text": "in very difficult operating conditions.",
+          "uuid": "b607c5ad-a98a-493c-85a0-e4810550f7b0"
+        },
+        {
+          "bbox": [
+            1262,
+            2377,
+            2094,
+            2433
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 25,
+          "lines": [
+            {
+              "bbox": [
+                1262,
+                2377,
+                2094,
+                2433
+              ],
+              "text": "Integrated Strategic Choices",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "664dfc2c-f155-4a6c-97fe-2b6bf8be1337"
+            }
+          ],
+          "text": "Integrated Strategic Choices",
+          "uuid": "d1f7443e-5d3b-48db-99c6-99579922b2fa"
+        },
+        {
+          "bbox": [
+            1258,
+            2477,
+            2138,
+            2802
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 26,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                2477,
+                2138,
+                2802
+              ],
+              "text": "P&G employees have delivered great results over the past four years in a very challenging macro environment against very capable competition. In those four years, P&G people have added more than $13 billion in annual sales and roughly $5 billion in after-tax profit\u2014executing our integrated strategies with excellence.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "9376cc46-07f1-4d97-8f4c-aba8ed8572ab"
+            }
+          ],
+          "text": "P&G employees have delivered great results over the past four years in a very challenging macro environment against very capable competition. In those four years, P&G people have added more than $13 billion in annual sales and roughly $5 billion in after-tax profit\u2014executing our integrated strategies with excellence.",
+          "uuid": "e3928739-11f1-42a3-bbb0-e071b6b38323"
+        },
+        {
+          "bbox": [
+            1256,
+            2857,
+            2174,
+            2988
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 27,
+          "lines": [
+            {
+              "bbox": [
+                1256,
+                2857,
+                2174,
+                2988
+              ],
+              "text": "The progress we have made, and our collective commitment to our strategies, give me confidence we can manage through the challenges we will continue",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "3cffa8f6-36ed-4352-9383-ba635f0bed5f"
+            }
+          ],
+          "text": "The progress we have made, and our collective commitment to our strategies, give me confidence we can manage through the challenges we will continue",
+          "uuid": "c85bb21c-3e5e-4e24-93f0-29e1310e5bc4"
+        }
+      ],
+      "signatures": [],
+      "stamps": [],
+      "tables": [],
+      "page": 1
+    },
+    {
+      "bbox": [
+        0,
+        0,
+        2362,
+        3150
+      ],
+      "confidence": 0.9,
+      "page_id": 5,
+      "paragraphs": [
+        {
+          "bbox": [
+            246,
+            299,
+            1148,
+            481
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 1,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                299,
+                1148,
+                481
+              ],
+              "text": "We are leveraging this superiority to grow markets, and P&G's share in them, as a way to sustainably build the business. Creating new business is powerful with our retail partners as we work to jointly create value.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "681c5838-94a1-4131-959b-681ddd14d80a"
+            }
+          ],
+          "text": "We are leveraging this superiority to grow markets, and P&G's share in them, as a way to sustainably build the business. Creating new business is powerful with our retail partners as we work to jointly create value.",
+          "uuid": "3289fbe3-7584-4e6d-ba52-b05afa234dde"
+        },
+        {
+          "bbox": [
+            246,
+            529,
+            1123,
+            661
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 2,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                529,
+                1123,
+                661
+              ],
+              "text": "Superiority is especially critical in an inflationary environment. As consumers face increased pressure on nearly every aspect of their household budgets,",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "bd496ccc-aae4-4292-8031-99860a88e539"
+            }
+          ],
+          "text": "Superiority is especially critical in an inflationary environment. As consumers face increased pressure on nearly every aspect of their household budgets,",
+          "uuid": "03e047a6-ade9-48f5-bec6-8e6ab70b0b58"
+        },
+        {
+          "bbox": [
+            246,
+            679,
+            1161,
+            961
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 3,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                679,
+                1161,
+                961
+              ],
+              "text": "we invest to deliver truly superior value through a combination of price and product performance to earn their loyalty every day. We are committed to keep investing to strengthen the superiority of our brands across innovation, supply chains and brand equity to deliver superior value for consumers.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "6bfd7c3e-d2f4-4344-9926-62299713e983"
+            }
+          ],
+          "text": "we invest to deliver truly superior value through a combination of price and product performance to earn their loyalty every day. We are committed to keep investing to strengthen the superiority of our brands across innovation, supply chains and brand equity to deliver superior value for consumers.",
+          "uuid": "3e8fa6d8-dcce-4182-b313-83c88ae1c33f"
+        },
+        {
+          "bbox": [
+            247,
+            1036,
+            877,
+            1091
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 4,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                1036,
+                877,
+                1091
+              ],
+              "text": "Ongoing Productivity",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "feb65621-1521-4451-a317-b355433bf9ff"
+            }
+          ],
+          "text": "Ongoing Productivity",
+          "uuid": "5c4a0843-1b54-4e64-85b2-6e81e9ac6c2d"
+        },
+        {
+          "bbox": [
+            243,
+            1135,
+            1172,
+            1416
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 5,
+          "lines": [
+            {
+              "bbox": [
+                243,
+                1135,
+                1172,
+                1416
+              ],
+              "text": "The strategic need for investment to strengthen the long-term health and competitiveness of our brands, the short-term need to manage through significant cost increases, and the ongoing need to drive balanced top- and bottom-line growth, including margin expansion, underscore the importance of productivity.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "cf6be7f2-6074-455a-ac4d-6e22da0a9089"
+            }
+          ],
+          "text": "The strategic need for investment to strengthen the long-term health and competitiveness of our brands, the short-term need to manage through significant cost increases, and the ongoing need to drive balanced top- and bottom-line growth, including margin expansion, underscore the importance of productivity.",
+          "uuid": "b73f5ed3-cdf5-4cc4-bf90-ad6d771a893e"
+        },
+        {
+          "bbox": [
+            246,
+            1465,
+            1069,
+            1497
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 6,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1465,
+                1069,
+                1497
+              ],
+              "text": "We have developed a strong productivity muscle",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "a2303c20-5b48-4b64-96d8-42d1a77ad4a0"
+            }
+          ],
+          "text": "We have developed a strong productivity muscle",
+          "uuid": "85b520fd-8a4e-4e87-8f5d-9903799ba27f"
+        },
+        {
+          "bbox": [
+            246,
+            1512,
+            1099,
+            1597
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 7,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1512,
+                1099,
+                1597
+              ],
+              "text": "over the last decade as we delivered two $10 billion savings programs. Productivity is part of our DNA",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "1652ab86-eff8-4d6b-9cfe-bbfe3de6198f"
+            }
+          ],
+          "text": "over the last decade as we delivered two $10 billion savings programs. Productivity is part of our DNA",
+          "uuid": "7233bc58-0323-4fbc-8e67-4eddd25213ee"
+        },
+        {
+          "bbox": [
+            246,
+            1615,
+            1177,
+            1790
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 8,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1615,
+                1177,
+                1790
+              ],
+              "text": "now, which will help us address some of the challenges we face. We remain fully committed to cost and cash productivity in all facets of our business. No area of cost is left untouched.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "e2f61b90-ffbd-4581-856c-d01309df5154"
+            }
+          ],
+          "text": "now, which will help us address some of the challenges we face. We remain fully committed to cost and cash productivity in all facets of our business. No area of cost is left untouched.",
+          "uuid": "4f300858-772f-4e6a-b99a-61bdc8ef2d55"
+        },
+        {
+          "bbox": [
+            244,
+            1845,
+            1173,
+            2077
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 9,
+          "lines": [
+            {
+              "bbox": [
+                244,
+                1845,
+                1173,
+                2077
+              ],
+              "text": "For example, as COVID-19 supply chain challenges ease and we reach a better balance of supply and demand, we will have an increased opportunity to implement cost savings projects in our manufacturing operations. As we leverage digital tools and automation, there",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "6fab1052-c2d0-4b13-b0d1-0d24cef6e8cc"
+            }
+          ],
+          "text": "For example, as COVID-19 supply chain challenges ease and we reach a better balance of supply and demand, we will have an increased opportunity to implement cost savings projects in our manufacturing operations. As we leverage digital tools and automation, there",
+          "uuid": "a4c42056-a7cf-4de0-a353-4e00a73015af"
+        },
+        {
+          "bbox": [
+            246,
+            2095,
+            1142,
+            2277
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 10,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2095,
+                1142,
+                2277
+              ],
+              "text": "will be more opportunities to focus employees on the higher-order work of serving consumers. And, as we continue to integrate data and analytics and artificial intelligence, brand teams will be working to make",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "a9bcf2e3-64a4-4fc7-913e-3baed25804c4"
+            }
+          ],
+          "text": "will be more opportunities to focus employees on the higher-order work of serving consumers. And, as we continue to integrate data and analytics and artificial intelligence, brand teams will be working to make",
+          "uuid": "5b415a3c-f900-4b1b-8a83-93d477a329d5"
+        },
+        {
+          "bbox": [
+            246,
+            2295,
+            1167,
+            2420
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 11,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2295,
+                1167,
+                2420
+              ],
+              "text": "our marketing investments even more efficient and effective to deliver improved demand creation at equal or lower cost.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "9ef525ae-002a-4ecd-b9a5-c4efc847f4bd"
+            }
+          ],
+          "text": "our marketing investments even more efficient and effective to deliver improved demand creation at equal or lower cost.",
+          "uuid": "310dbb84-430f-43f8-ae7c-e3cce4af51e3"
+        },
+        {
+          "bbox": [
+            246,
+            2475,
+            1172,
+            2807
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 12,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2475,
+                1172,
+                2807
+              ],
+              "text": "Each business is driving productivity up and down their income statement and across their balance sheet, and we remain fully committed to productivity as a core driver of balanced top- and bottom-line growth and strong cash generation. We cannot let up here. Productivity will remain a significant part of our work, especially now.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "189521c5-8450-4e47-9450-0045c297fd58"
+            }
+          ],
+          "text": "Each business is driving productivity up and down their income statement and across their balance sheet, and we remain fully committed to productivity as a core driver of balanced top- and bottom-line growth and strong cash generation. We cannot let up here. Productivity will remain a significant part of our work, especially now.",
+          "uuid": "ee4a9fd9-cfcc-488e-adbb-52909728729d"
+        },
+        {
+          "bbox": [
+            1373,
+            296,
+            2062,
+            351
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 13,
+          "lines": [
+            {
+              "bbox": [
+                1373,
+                296,
+                2062,
+                351
+              ],
+              "text": "Measures of Superiority",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "8b1a1486-1476-4792-9434-a6da515acda5"
+            }
+          ],
+          "text": "Measures of Superiority",
+          "uuid": "2932a96d-0cad-46a2-b59f-094fea334448"
+        },
+        {
+          "bbox": [
+            1372,
+            473,
+            1590,
+            500
+          ],
+          "confidence": 0.87,
+          "paragraph_id": 14,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                473,
+                1590,
+                500
+              ],
+              "text": "PRODUCT",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "ed0f24b8-45ed-48a5-8f12-16bd03f19664"
+            }
+          ],
+          "text": "PRODUCT",
+          "uuid": "6bda049f-0f24-4d22-937d-95eb985214ad"
+        },
+        {
+          "bbox": [
+            1370,
+            543,
+            1898,
+            775
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 15,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                543,
+                1898,
+                775
+              ],
+              "text": "Products so good, consumers recognize the difference. Superior products raise expectations for performance in the category.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "1facfcb9-3fee-4a8c-98e0-48749c31f59f"
+            }
+          ],
+          "text": "Products so good, consumers recognize the difference. Superior products raise expectations for performance in the category.",
+          "uuid": "ed729b79-0a6b-46e9-9ea0-e7e55ebdd066"
+        },
+        {
+          "bbox": [
+            1372,
+            900,
+            1637,
+            927
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 16,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                900,
+                1637,
+                927
+              ],
+              "text": "PACKAGING",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "3ecf9a67-cfda-45af-9eee-02a84512d914"
+            }
+          ],
+          "text": "PACKAGING",
+          "uuid": "cacf5ad1-9ed5-4079-9996-d4e009ece305"
+        },
+        {
+          "bbox": [
+            1370,
+            969,
+            1842,
+            1252
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 17,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                969,
+                1842,
+                1252
+              ],
+              "text": "Packaging that attracts consumers, conveys brand equity, helps consumers select the best product for their needs, and delights consumers during use.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "7be61e5c-ad76-4594-8d6a-d6f008c95819"
+            }
+          ],
+          "text": "Packaging that attracts consumers, conveys brand equity, helps consumers select the best product for their needs, and delights consumers during use.",
+          "uuid": "d3095560-1807-4493-a2d7-fc20da633ecc"
+        },
+        {
+          "bbox": [
+            1372,
+            1377,
+            1946,
+            1404
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 18,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                1377,
+                1946,
+                1404
+              ],
+              "text": "BRAND COMMUNICATION",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "a01b2754-d6c9-4134-b200-402309a1e662"
+            }
+          ],
+          "text": "BRAND COMMUNICATION",
+          "uuid": "40e85f2b-3998-4e82-8d36-78df69252d8b"
+        },
+        {
+          "bbox": [
+            1370,
+            1446,
+            1873,
+            1629
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 19,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1446,
+                1873,
+                1629
+              ],
+              "text": "Product and packaging benefits communicated with exceptional advertising that makes you think,",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "b0fe7978-b4c7-42ff-ad21-041875b2dbc5"
+            }
+          ],
+          "text": "Product and packaging benefits communicated with exceptional advertising that makes you think,",
+          "uuid": "461f3b69-1bea-4d68-9de8-43977615e69c"
+        },
+        {
+          "bbox": [
+            1370,
+            1646,
+            1867,
+            1779
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 20,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1646,
+                1867,
+                1779
+              ],
+              "text": "talk, laugh, cry, smile, act and buy\u2014and that drives category and brand growth.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "7d29447a-a3f2-4649-9b0f-ac040dccf0a5"
+            }
+          ],
+          "text": "talk, laugh, cry, smile, act and buy\u2014and that drives category and brand growth.",
+          "uuid": "76f5d2e7-3831-48e8-83f2-063b586a8784"
+        },
+        {
+          "bbox": [
+            1372,
+            1904,
+            1803,
+            1931
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 21,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                1904,
+                1803,
+                1931
+              ],
+              "text": "RETAIL EXECUTION",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "02c4179b-3802-4015-8f83-a905f6e53b22"
+            }
+          ],
+          "text": "RETAIL EXECUTION",
+          "uuid": "665a9057-7bc2-4216-9cd9-100f04011fc9"
+        },
+        {
+          "bbox": [
+            1370,
+            1973,
+            1919,
+            2306
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 22,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1973,
+                1919,
+                2306
+              ],
+              "text": "In-store: with the right store coverage, product forms, sizes, price points, shelving and merchandising. Online: with the right content, assortment, ratings, reviews, search and subscription offerings.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "f5f508cb-ea0e-46e3-9e83-50c16e9188db"
+            }
+          ],
+          "text": "In-store: with the right store coverage, product forms, sizes, price points, shelving and merchandising. Online: with the right content, assortment, ratings, reviews, search and subscription offerings.",
+          "uuid": "e7b24eba-0564-4a2d-b757-84bfaf7b475d"
+        },
+        {
+          "bbox": [
+            1371,
+            2431,
+            1783,
+            2504
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 23,
+          "lines": [
+            {
+              "bbox": [
+                1371,
+                2431,
+                1783,
+                2504
+              ],
+              "text": "CONSUMER & CUSTOMER VALUE",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "1fefa3cf-c74d-4161-9f55-3862a81d6221"
+            }
+          ],
+          "text": "CONSUMER & CUSTOMER VALUE",
+          "uuid": "5b9d91dd-fd0f-4b2b-bd40-93d1047f5672"
+        },
+        {
+          "bbox": [
+            1370,
+            2547,
+            1800,
+            2629
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 24,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                2547,
+                1800,
+                2629
+              ],
+              "text": "For consumers: all these elements presented in",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "3e94b05a-7b0b-429b-909d-33b29a888f7a"
+            }
+          ],
+          "text": "For consumers: all these elements presented in",
+          "uuid": "2f3f4e16-ac85-4b52-bca1-42acf9877695"
+        },
+        {
+          "bbox": [
+            1371,
+            2647,
+            1757,
+            2679
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 25,
+          "lines": [
+            {
+              "bbox": [
+                1371,
+                2647,
+                1757,
+                2679
+              ],
+              "text": "a clear and shoppable",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "8d34d9d5-b0bc-4e1e-af0a-53685f244573"
+            }
+          ],
+          "text": "a clear and shoppable",
+          "uuid": "c8dccfe3-40c2-4995-9400-9b2f9bea767b"
+        },
+        {
+          "bbox": [
+            1370,
+            2696,
+            1885,
+            2929
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 26,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                2696,
+                1885,
+                2929
+              ],
+              "text": "way at a compelling price. For customers: margin, penny profit, trip generation, basket size, and category growth.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "466c9bda-db85-43ad-a571-144fde231997"
+            }
+          ],
+          "text": "way at a compelling price. For customers: margin, penny profit, trip generation, basket size, and category growth.",
+          "uuid": "e8c61a2a-5d18-4e9d-b027-cdf8924b4351"
+        },
+        {
+          "bbox": [
+            1997,
+            498,
+            2191,
+            1216
+          ],
+          "confidence": 0.53,
+          "paragraph_id": 27,
+          "lines": [
+            {
+              "bbox": [
+                1997,
+                498,
+                2191,
+                1216
+              ],
+              "text": "B i",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "2eb3bf1a-e9eb-45be-b5dc-d4c79e830a50"
+            }
+          ],
+          "text": "B i",
+          "uuid": "40582305-72a0-4739-8076-e5fb64112bf8"
+        },
+        {
+          "bbox": [
+            1958,
+            1472,
+            2230,
+            1682
+          ],
+          "confidence": 0.31,
+          "paragraph_id": 28,
+          "lines": [
+            {
+              "bbox": [
+                1958,
+                1472,
+                2230,
+                1682
+              ],
+              "text": "&",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "5c99d6ce-5ea6-40c0-a968-1ccf3bfe4118"
+            }
+          ],
+          "text": "&",
+          "uuid": "9854bd03-fee6-4afb-98d1-dcc732349619"
+        }
+      ],
+      "signatures": [],
+      "stamps": [],
+      "tables": [],
+      "page": 2
+    },
+    {
+      "bbox": [
+        0,
+        0,
+        2362,
+        3150
+      ],
+      "confidence": 0.89,
+      "page_id": 7,
+      "paragraphs": [
+        {
+          "bbox": [
+            0,
+            0,
+            1305,
+            1
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 1,
+          "lines": [
+            {
+              "bbox": [
+                0,
+                0,
+                1305,
+                1
+              ],
+              "text": " ",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "7eb16896-b748-47a4-b903-3b1f9bf6a832"
+            }
+          ],
+          "text": " ",
+          "uuid": "24b736f0-dbb8-46f0-a25b-64dc8a8ca691"
+        },
+        {
+          "bbox": [
+            0,
+            0,
+            2,
+            3150
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 2,
+          "lines": [
+            {
+              "bbox": [
+                0,
+                0,
+                2,
+                3150
+              ],
+              "text": " ",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "4c645759-0075-4943-bed2-8c482fb47895"
+            }
+          ],
+          "text": " ",
+          "uuid": "db99018a-38b7-47ff-958e-d3056e67825f"
+        },
+        {
+          "bbox": [
+            486,
+            237,
+            1061,
+            265
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 3,
+          "lines": [
+            {
+              "bbox": [
+                486,
+                237,
+                1061,
+                265
+              ],
+              "text": "BRAND COMMUNICATION",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "f6729195-4797-40be-a795-628daca7489b"
+            }
+          ],
+          "text": "BRAND COMMUNICATION",
+          "uuid": "e893742a-74af-4dbd-ba5c-302c30d602d8"
+        },
+        {
+          "bbox": [
+            245,
+            398,
+            1133,
+            601
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 4,
+          "lines": [
+            {
+              "bbox": [
+                245,
+                398,
+                1133,
+                601
+              ],
+              "text": "A witty \u2018edu-tainment\u2019 campaign with celebrities and influencers reached millions of consumers across a range of digital and broadcast platforms. The campaign delivered a humorous approach to tampon and period education appealing to Gen Z and Millennial audiences.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "5c60945a-5e82-4ff3-bef8-ed3a37b8ccab"
+            }
+          ],
+          "text": "A witty \u2018edu-tainment\u2019 campaign with celebrities and influencers reached millions of consumers across a range of digital and broadcast platforms. The campaign delivered a humorous approach to tampon and period education appealing to Gen Z and Millennial audiences.",
+          "uuid": "c8cf69ff-f160-43d5-a7a3-41ed854a6d7c"
+        },
+        {
+          "bbox": [
+            245,
+            636,
+            1106,
+            751
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 5,
+          "lines": [
+            {
+              "bbox": [
+                245,
+                636,
+                1106,
+                751
+              ],
+              "text": "This campaign contributed to double digit organic sales growth for global Feminine Care in fiscal 2022, with value share up over one point.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "e7a6f82f-f2aa-4e00-b741-02794ebc0928"
+            }
+          ],
+          "text": "This campaign contributed to double digit organic sales growth for global Feminine Care in fiscal 2022, with value share up over one point.",
+          "uuid": "dfc830b6-2cf7-493e-a878-5dac01b936f9"
+        },
+        {
+          "bbox": [
+            391,
+            1018,
+            1066,
+            1019
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 6,
+          "lines": [
+            {
+              "bbox": [
+                391,
+                1018,
+                1066,
+                1019
+              ],
+              "text": " ",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "1b1d504c-3dbe-4502-b6d2-9df9d5e3ef44"
+            }
+          ],
+          "text": " ",
+          "uuid": "c07cf8bf-e60f-4d83-b14c-80ef336581a8"
+        },
+        {
+          "bbox": [
+            240,
+            1014,
+            1186,
+            1554
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 7,
+          "lines": [
+            {
+              "bbox": [
+                240,
+                1014,
+                1186,
+                1554
+              ],
+              "text": " ",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "838bafd7-48b5-4569-b8ab-083f150b0d51"
+            }
+          ],
+          "text": " ",
+          "uuid": "97a1b97f-a872-4e7c-8977-2fa8d43b0771"
+        },
+        {
+          "bbox": [
+            321,
+            1711,
+            1000,
+            1800
+          ],
+          "confidence": 0.81,
+          "paragraph_id": 8,
+          "lines": [
+            {
+              "bbox": [
+                321,
+                1711,
+                1000,
+                1800
+              ],
+              "text": "@!;d*j;@ Read more about",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "e0abf7cc-d9b0-428c-8a47-d3961a2badb7"
+            }
+          ],
+          "text": "@!;d*j;@ Read more about",
+          "uuid": "ff0eca14-7fbc-4cfa-8d2d-820bac96c1bd"
+        },
+        {
+          "bbox": [
+            321,
+            1782,
+            1110,
+            1933
+          ],
+          "confidence": 0.6,
+          "paragraph_id": 9,
+          "lines": [
+            {
+              "bbox": [
+                321,
+                1782,
+                1110,
+                1933
+              ],
+              "text": "g\ufb02 superiority at pg.com/ = 2 annualreport2022 @5",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "f4d921f6-339d-4cf9-951f-252a42912aef"
+            }
+          ],
+          "text": "g\ufb02 superiority at pg.com/ = 2 annualreport2022 @5",
+          "uuid": "ea048eef-46e3-4c12-ab7b-fd9795aee131"
+        },
+        {
+          "bbox": [
+            534,
+            2240,
+            639,
+            2478
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 10,
+          "lines": [
+            {
+              "bbox": [
+                534,
+                2240,
+                639,
+                2478
+              ],
+              "text": " ",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "ca04e8f8-9a45-4db2-b632-301d6cf40d55"
+            }
+          ],
+          "text": " ",
+          "uuid": "f15c68f0-86d2-4517-adcb-8537e0777d0e"
+        },
+        {
+          "bbox": [
+            442,
+            2666,
+            1044,
+            3150
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 11,
+          "lines": [
+            {
+              "bbox": [
+                442,
+                2666,
+                1044,
+                3150
+              ],
+              "text": "   ",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "7b9361f4-5a79-4926-a3d9-1da66618e43c"
+            }
+          ],
+          "text": "   ",
+          "uuid": "8be368e3-4466-4cae-a253-a824bf344d02"
+        },
+        {
+          "bbox": [
+            1132,
+            2634,
+            1176,
+            2682
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 12,
+          "lines": [
+            {
+              "bbox": [
+                1132,
+                2634,
+                1176,
+                2682
+              ],
+              "text": " ",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "43b029bd-e364-4f34-bf21-22afe266026b"
+            }
+          ],
+          "text": " ",
+          "uuid": "192dab02-4ee1-48b4-a335-6cce49f6a487"
+        },
+        {
+          "bbox": [
+            1696,
+            168,
+            2194,
+            195
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 13,
+          "lines": [
+            {
+              "bbox": [
+                1696,
+                168,
+                2194,
+                195
+              ],
+              "text": "The Procter & Gamble Company - v",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "407d452b-38a9-434d-9ac1-7f3c64e8ce24"
+            }
+          ],
+          "text": "The Procter & Gamble Company - v",
+          "uuid": "2f9543ef-792c-407f-80d4-b2c2b367661d"
+        },
+        {
+          "bbox": [
+            1409,
+            296,
+            1972,
+            428
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 14,
+          "lines": [
+            {
+              "bbox": [
+                1409,
+                296,
+                1972,
+                428
+              ],
+              "text": "A Constructive Disruption Mindset",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "e665d848-d8d9-40b3-81d0-1cba03d0884b"
+            }
+          ],
+          "text": "A Constructive Disruption Mindset",
+          "uuid": "6a5b78c7-060a-4abb-a2b3-020602001bab"
+        },
+        {
+          "bbox": [
+            1412,
+            472,
+            2193,
+            704
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 15,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                472,
+                2193,
+                704
+              ],
+              "text": "Success in our highly competitive industry also requires agility that comes with a mindset of constructive disruption\u2014a willingness to change, adapt and create new trends and technologies that will shape our industry",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "f73844c6-5421-40b6-80e9-7d84793183b8"
+            }
+          ],
+          "text": "Success in our highly competitive industry also requires agility that comes with a mindset of constructive disruption\u2014a willingness to change, adapt and create new trends and technologies that will shape our industry",
+          "uuid": "a16f1ee2-f633-4a12-89ef-13657315f2f9"
+        },
+        {
+          "bbox": [
+            1412,
+            722,
+            2097,
+            854
+          ],
+          "confidence": 0.87,
+          "paragraph_id": 16,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                722,
+                2097,
+                854
+              ],
+              "text": "for the future. A mindset of constructive disruption is even more important in this challenging environment.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "97a6a377-f3c5-48e3-be80-17561f74e118"
+            }
+          ],
+          "text": "for the future. A mindset of constructive disruption is even more important in this challenging environment.",
+          "uuid": "c525beb7-85d4-4512-84c9-e79dcf42b2b0"
+        },
+        {
+          "bbox": [
+            1410,
+            902,
+            2124,
+            934
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 17,
+          "lines": [
+            {
+              "bbox": [
+                1410,
+                902,
+                2124,
+                934
+              ],
+              "text": "A good example of constructive disruption",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "732e7a32-3b00-433c-b154-142dfbd9b817"
+            }
+          ],
+          "text": "A good example of constructive disruption",
+          "uuid": "34458fd9-4615-47cc-8800-2e25333dbd1d"
+        },
+        {
+          "bbox": [
+            1415,
+            952,
+            2063,
+            984
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 18,
+          "lines": [
+            {
+              "bbox": [
+                1415,
+                952,
+                2063,
+                984
+              ],
+              "text": "in a category is Dawn Powerwash Dish",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "5a456005-698e-4c11-ae35-626b8c266db1"
+            }
+          ],
+          "text": "in a category is Dawn Powerwash Dish",
+          "uuid": "91ef9c3f-95a5-4d93-bd4c-297c50f10818"
+        },
+        {
+          "bbox": [
+            1412,
+            1002,
+            2176,
+            1284
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 19,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1002,
+                2176,
+                1284
+              ],
+              "text": "Spray, which addresses the changing habit of washing dishes as you go instead of waiting until the end of a meal. The product enables direct application of activated suds to dishes to speed up the entire process, saving people not only time but also water.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "be5ffb99-cbbe-4728-ae8c-493ddb087997"
+            }
+          ],
+          "text": "Spray, which addresses the changing habit of washing dishes as you go instead of waiting until the end of a meal. The product enables direct application of activated suds to dishes to speed up the entire process, saving people not only time but also water.",
+          "uuid": "d969831e-e33a-4642-ae2e-80144e710d5b"
+        },
+        {
+          "bbox": [
+            1410,
+            1332,
+            2077,
+            1414
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 20,
+          "lines": [
+            {
+              "bbox": [
+                1410,
+                1332,
+                2077,
+                1414
+              ],
+              "text": "Another example is how we continue to reinvent brand building, including how",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "afcf78c6-d4d0-4663-91b9-f32fcbe94854"
+            }
+          ],
+          "text": "Another example is how we continue to reinvent brand building, including how",
+          "uuid": "3edfb86f-20cf-4b43-bbdf-9334a5763167"
+        },
+        {
+          "bbox": [
+            1412,
+            1432,
+            2114,
+            1564
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 21,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1432,
+                2114,
+                1564
+              ],
+              "text": "we reach consumers more effectively and efficiently. Pampers, our largest and most global brand, is relatively unique in that",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "be799b6c-116d-48ba-ab5b-7d36aad06297"
+            }
+          ],
+          "text": "we reach consumers more effectively and efficiently. Pampers, our largest and most global brand, is relatively unique in that",
+          "uuid": "6ef066aa-d61f-4c1f-bfec-afda1419beca"
+        },
+        {
+          "bbox": [
+            1412,
+            1582,
+            2189,
+            2164
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 22,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1582,
+                2189,
+                2164
+              ],
+              "text": "its primary audience is narrow: parents of children at diapering age. To reach these parents more precisely, Pampers created the Pampers Rewards app so parents can receive helpful information, tips, deals and rewards. With this app, Pampers was able to build smart audiences to reach parents at different stages\u2014like newborns, crawling and potty training\u2014with more precise advertising specifically designed for each media platform, increasing the brand'\u2019s reach, effectiveness and efficiency, while driving cost savings.",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "cb1055ec-d8e2-4969-8e29-10bc255e91a7"
+            }
+          ],
+          "text": "its primary audience is narrow: parents of children at diapering age. To reach these parents more precisely, Pampers created the Pampers Rewards app so parents can receive helpful information, tips, deals and rewards. With this app, Pampers was able to build smart audiences to reach parents at different stages\u2014like newborns, crawling and potty training\u2014with more precise advertising specifically designed for each media platform, increasing the brand'\u2019s reach, effectiveness and efficiency, while driving cost savings.",
+          "uuid": "9e064b69-0e50-4ce0-9d66-1aa3c217122a"
+        },
+        {
+          "bbox": [
+            1411,
+            2268,
+            2185,
+            2401
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 23,
+          "lines": [
+            {
+              "bbox": [
+                1411,
+                2268,
+                2185,
+                2401
+              ],
+              "text": "Success in our highly competitive industry requires the agility that comes with a mindset of constructive disruption\u2014",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "22ca2d51-228d-43a5-88be-84239f73a07b"
+            }
+          ],
+          "text": "Success in our highly competitive industry requires the agility that comes with a mindset of constructive disruption\u2014",
+          "uuid": "dd0668a9-f0da-4beb-a1fe-73ff70da3415"
+        },
+        {
+          "bbox": [
+            1411,
+            2597,
+            2191,
+            2713
+          ],
+          "confidence": 0.87,
+          "paragraph_id": 24,
+          "lines": [
+            {
+              "bbox": [
+                1411,
+                2597,
+                2191,
+                2713
+              ],
+              "text": "Lean Brand Supply Digitization Innovation Building Chain & Data Analytics",
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "a643fa66-7bfe-4fa3-8ec7-94459a1320c3"
+            }
+          ],
+          "text": "Lean Brand Supply Digitization Innovation Building Chain & Data Analytics",
+          "uuid": "2a8f4b76-24f9-4e4a-a3b1-5bce5c533391"
+        }
+      ],
+      "signatures": [],
+      "stamps": [],
+      "tables": [],
+      "page": 3
+    }
+  ],
+  "raw_file_id": "-",
+  "raw_file_name": "-"
+}

@@ -1,0 +1,64 @@
+{
+  "pages": [
+    {
+      "bbox": [
+        0,
+        0,
+        480,
+        640
+      ],
+      "confidence": 0.92,
+      "page_id": 1,
+      "paragraphs": [
+        {
+          "bbox": [
+            133,
+            281,
+            350,
+            335
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 1,
+          "lines": [
+            {
+              "bbox": [
+                133,
+                281,
+                350,
+                335
+              ],
+              "char_height": 54,
+              "char_width": 54,
+              "chars": {
+                "text": [
+                  "D",
+                  "O",
+                  "W",
+                  "N"
+                ],
+                "x0_list": [
+                  133,
+                  187,
+                  242,
+                  296
+                ]
+              },
+              "line_id": 1,
+              "text": "DOWN",
+              "confidence": 0.9,
+              "uuid": "a0b2d8cb-ed7d-490d-bb69-5cb405f9adef"
+            }
+          ],
+          "text": "DOWN",
+          "uuid": "a0beefa2-d8c3-48fb-ac40-743404e2357a"
+        }
+      ],
+      "signatures": [],
+      "stamps": [],
+      "tables": [],
+      "page": 1
+    }
+  ],
+  "raw_file_id": "-",
+  "raw_file_name": "-"
+}

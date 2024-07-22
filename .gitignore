@@ -6,4 +6,5 @@ __pycache__
 .ipynb_checkpoint
 .pytest_cache
 model_outputs
-
+tesseract-4.1.1
+bge-small-en

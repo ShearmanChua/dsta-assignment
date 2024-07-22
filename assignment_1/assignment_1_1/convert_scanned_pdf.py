@@ -27,19 +27,32 @@ def image_to_pdf(image_path):
             if hasattr(pil_image, '_getexif'):
                 img_exif = pil_image._getexif()
                 if hasattr(img_exif, 'items'):
-                    exif = dict(pil_image._getexif().items())
+                    exif = dict(img_exif.items())
                     orientation = exif.get(orientation_key)
-                    # Handle EXIF Orientation
                     if orientation == 1:
                         # Normal image - nothing to do
                         pass
-                    # todo: Question 9
+                    elif orientation == 2:
+                        pil_image = pil_image.transpose(Image.FLIP_LEFT_RIGHT)
+                    elif orientation == 3:
+                        pil_image = pil_image.rotate(180, expand=True)
+                    elif orientation == 4:
+                        pil_image = pil_image.transpose(Image.FLIP_TOP_BOTTOM)
+                    elif orientation == 5:
+                        pil_image = pil_image.transpose(Image.FLIP_LEFT_RIGHT).rotate(-90, expand=True)
+                    elif orientation == 6:
+                        pil_image = pil_image.rotate(-90, expand=True)
+                    elif orientation == 7:
+                        pil_image = pil_image.transpose(Image.FLIP_LEFT_RIGHT).rotate(90, expand=True)
+                    elif orientation == 8:
+                        pil_image = pil_image.rotate(90, expand=True)
             break
 
     pdf_fp_out = io.BytesIO()
     pil_image.save(pdf_fp_out, "PDF", creationDate=None, modDate=None)
+    pdf_fp_out.seek(0)
 
-    return pdf_fp_out.getvalue()
+    return pdf_fp_out
 
 def convert_one_page_from_pdf_page(pdf_doc, page_id):
     pdf_page = pdf_doc[page_id]
@@ -67,7 +80,7 @@ def pdf_render_page(page: fitz.Page):
     return canvas
 
 
-def ocr_transform_to_idp_format(pdf_bin):
+def ocr_transform_to_idp_format(pdf_bin, selected_pages=None):
     buf = io.BytesIO(pdf_bin)
     doc = fitz.Document(stream=buf, filetype='pdf')
     pages = []
@@ -77,6 +90,10 @@ def ocr_transform_to_idp_format(pdf_bin):
     }
     page_count = doc.page_count
     for page_id in range(page_count):
+        # Check if the page_id + 1 (1-based index) is in the selected_pages list
+        if selected_pages and (page_id + 1) not in selected_pages:
+            continue
+
         page_blocks = extract_page_blocks(doc.load_page(page_id))
         groups = pydash.group_by([b['bbox'] + (b['type'],) for b in page_blocks], 4)
         blocks_by_type = {map_type_to_names[k]: len(v) for k, v in groups.items()}
@@ -86,20 +103,25 @@ def ocr_transform_to_idp_format(pdf_bin):
     return {"pages": pages}
 
 
-def convert_scanned_pdf(pdf_bin):
-    ocr_convert_result = ocr_transform_to_idp_format(pdf_bin)
+def convert_scanned_pdf(pdf_bin, selected_pages=None):
+    ocr_convert_result = ocr_transform_to_idp_format(pdf_bin, selected_pages)
     text_result = normalize(ocr_convert_result)
     return text_result
 
 
 if __name__ == "__main__":
     dataset_dir = pathlib.Path(__file__).parents[1]
-    input_path = 'assignment_1_1/data/scanned_pdf_sample.pdf'
+    image_path = 'assignment_1_1/data/down.jpg'
+    pdf_blob = image_to_pdf(image_path)
+    with open('assignment_1_1/data/down.pdf', 'wb') as pdf_file:
+        pdf_file.write(pdf_blob.getvalue())
+    input_path = 'assignment_1_1/data/down.pdf'
     file_path = dataset_dir / input_path
-    save_path = 'assignment_1_1/data/scanned_pdf_sample'
+    save_path = 'assignment_1_1/data/down'
     test_file = dataset_dir / f'{save_path}.json'
 
-    # todo: Question 9
+    # Specify the pages to be converted (1-based index)
+    # selected_pages = [3, 5, 7]
 
     pdf_bin = file_path.read_bytes()
     result = convert_scanned_pdf(pdf_bin)

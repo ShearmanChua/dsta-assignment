@@ -1,0 +1,31 @@
+version: "3.4"
+
+services:
+  dsta_assignment:
+    build:
+      context: ../
+      dockerfile: Dockerfile
+    stdin_open: true
+    tty: true
+    environment:
+      WEAVIATE_HOST: weaviate
+      WEAVIATE_PORT: 8080
+    env_file:
+      - .env
+    ports:
+      - 8888:8888
+    volumes:
+      - ../:/dsta_assignment
+      - ../tesseract-4.1.1/tessdata/:/usr/local/share/tessdata/
+  
+    ulimits:
+      memlock: -1 # set upper limit for how much memory is locked for the container (-1 means lock as much as the container uses)
+    shm_size: 32gb # set upper limit for how much shared memory container can use
+    ipc: "host"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]

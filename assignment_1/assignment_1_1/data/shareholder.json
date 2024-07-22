@@ -1,0 +1,542 @@
+{
+  "pages": [
+    {
+      "bbox": [
+        0,
+        0,
+        2550,
+        3300
+      ],
+      "confidence": 0.89,
+      "page_id": 1,
+      "paragraphs": [
+        {
+          "bbox": [
+            156,
+            266,
+            842,
+            676
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 1,
+          "lines": [
+            {
+              "bbox": [
+                156,
+                266,
+                842,
+                676
+              ],
+              "line_id": 1,
+              "text": "To our shareholders, customers and colleagues",
+              "confidence": 0.9,
+              "uuid": "5cf0265c-3306-4232-a134-e14935470a33"
+            }
+          ],
+          "text": "To our shareholders, customers and colleagues",
+          "uuid": "46f0529a-20ab-4132-ab21-48a73c7312d3"
+        },
+        {
+          "bbox": [
+            163,
+            740,
+            1163,
+            831
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 2,
+          "lines": [
+            {
+              "bbox": [
+                163,
+                740,
+                1163,
+                831
+              ],
+              "line_id": 1,
+              "text": "As | reflect on 2022, | am proud of what we achieved. Our team\u2019s incredible dedication to our customers",
+              "confidence": 0.9,
+              "uuid": "90866e7d-ef38-49fc-b04e-9d3acad3d255"
+            }
+          ],
+          "text": "As | reflect on 2022, | am proud of what we achieved. Our team\u2019s incredible dedication to our customers",
+          "uuid": "5f5986c3-5c54-45eb-94d5-8b6bd1b49a7a"
+        },
+        {
+          "bbox": [
+            163,
+            859,
+            1241,
+            1316
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 3,
+          "lines": [
+            {
+              "bbox": [
+                163,
+                859,
+                1241,
+                1316
+              ],
+              "line_id": 1,
+              "text": "and our Mission enabled us to successfully navigate a dynamic environment, exceed our goals and deliver value for all of our stakeholders. | would like to thank our more than 125,000 colleagues, whose passion for enabling our customers to make the world healthier, cleaner and safer fuels our success. And thank you to our customers and shareholders for your continued confidence in us as a partner in building a brighter future for all.",
+              "confidence": 0.9,
+              "uuid": "d917942a-f67d-4730-bd46-440ee017a3ef"
+            }
+          ],
+          "text": "and our Mission enabled us to successfully navigate a dynamic environment, exceed our goals and deliver value for all of our stakeholders. | would like to thank our more than 125,000 colleagues, whose passion for enabling our customers to make the world healthier, cleaner and safer fuels our success. And thank you to our customers and shareholders for your continued confidence in us as a partner in building a brighter future for all.",
+          "uuid": "bb6c70aa-57ac-4582-96ed-d046baf34cd8"
+        },
+        {
+          "bbox": [
+            163,
+            1375,
+            1239,
+            1764
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 4,
+          "lines": [
+            {
+              "bbox": [
+                163,
+                1375,
+                1239,
+                1764
+              ],
+              "line_id": 1,
+              "text": "We measure our success in a number of ways \u2014 not only by our financial results, but also by being the strongest partner for our customers, by providing an excellent work experience for our colleagues, by creating value for our shareholders and by making a positive impact on society. By all of these measures, it was another exceptional year for Thermo Fisher Scientific.",
+              "confidence": 0.9,
+              "uuid": "df27b59c-b23f-4d98-96c2-f5567c9db691"
+            }
+          ],
+          "text": "We measure our success in a number of ways \u2014 not only by our financial results, but also by being the strongest partner for our customers, by providing an excellent work experience for our colleagues, by creating value for our shareholders and by making a positive impact on society. By all of these measures, it was another exceptional year for Thermo Fisher Scientific.",
+          "uuid": "81bf994e-a7e0-4ea3-89c4-3bfdf9ee728a"
+        },
+        {
+          "bbox": [
+            164,
+            1877,
+            733,
+            1917
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 5,
+          "lines": [
+            {
+              "bbox": [
+                164,
+                1877,
+                733,
+                1917
+              ],
+              "line_id": 1,
+              "text": "Outstanding financial results",
+              "confidence": 0.9,
+              "uuid": "603c942a-fea1-44da-b358-e35e2f7fb7b3"
+            }
+          ],
+          "text": "Outstanding financial results",
+          "uuid": "3c22c86b-7847-4605-985e-3758fef3fcb2"
+        },
+        {
+          "bbox": [
+            164,
+            1956,
+            1070,
+            1996
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 6,
+          "lines": [
+            {
+              "bbox": [
+                164,
+                1956,
+                1070,
+                1996
+              ],
+              "line_id": 1,
+              "text": "Starting with our financials, we continued our",
+              "confidence": 0.9,
+              "uuid": "4aaa9f50-1f3d-4c47-94a1-51145eb18489"
+            }
+          ],
+          "text": "Starting with our financials, we continued our",
+          "uuid": "a71501d1-d5ed-4a1c-8ddc-ec3f7199ffcb"
+        },
+        {
+          "bbox": [
+            165,
+            2016,
+            1085,
+            2056
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 7,
+          "lines": [
+            {
+              "bbox": [
+                165,
+                2016,
+                1085,
+                2056
+              ],
+              "line_id": 1,
+              "text": "long track record of outstanding performance.",
+              "confidence": 0.9,
+              "uuid": "de232733-074d-437c-86ac-8bbae4a34246"
+            }
+          ],
+          "text": "long track record of outstanding performance.",
+          "uuid": "01b37cad-b2d1-4bb5-b214-c00cf1eaf92e"
+        },
+        {
+          "bbox": [
+            164,
+            2076,
+            1229,
+            2354
+          ],
+          "confidence": 0.87,
+          "paragraph_id": 8,
+          "lines": [
+            {
+              "bbox": [
+                164,
+                2076,
+                1229,
+                2354
+              ],
+              "line_id": 1,
+              "text": "In 2022, we grew our revenue by 15 percent to $44.92 billion, delivered strong earnings results consisting of GAAP diluted earnings per share (EPS) of $17.63 and adjusted EPS\u201d of $23.24, and we generated very strong free cash flow\u201d\u2122 of $6.94 billion.",
+              "confidence": 0.9,
+              "uuid": "ed276deb-de4f-408b-96de-bca618cc35e5"
+            }
+          ],
+          "text": "In 2022, we grew our revenue by 15 percent to $44.92 billion, delivered strong earnings results consisting of GAAP diluted earnings per share (EPS) of $17.63 and adjusted EPS\u201d of $23.24, and we generated very strong free cash flow\u201d\u2122 of $6.94 billion.",
+          "uuid": "98a69ee6-f310-4fff-8f07-462edc9e1c08"
+        },
+        {
+          "bbox": [
+            163,
+            2413,
+            997,
+            2571
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 9,
+          "lines": [
+            {
+              "bbox": [
+                163,
+                2413,
+                997,
+                2571
+              ],
+              "line_id": 1,
+              "text": "We also returned significant capital to our shareholders through $3.5 billion of stock buybacks and dividends.",
+              "confidence": 0.9,
+              "uuid": "4529e504-eaa7-440a-8d13-24ca4211226d"
+            }
+          ],
+          "text": "We also returned significant capital to our shareholders through $3.5 billion of stock buybacks and dividends.",
+          "uuid": "ca3cf24e-6eef-4e12-937e-a5cd5784fae9"
+        },
+        {
+          "bbox": [
+            163,
+            2745,
+            1069,
+            2840
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 10,
+          "lines": [
+            {
+              "bbox": [
+                163,
+                2745,
+                1069,
+                2840
+              ],
+              "line_id": 1,
+              "text": "* Adjusted EPS and free cash flow are non-GAAP financial measures. For a reconciliation of these non-GAAP measures to comparable GAAP measures, see pages 6 and 7 of this annual report.",
+              "confidence": 0.9,
+              "uuid": "28f0820e-c63b-4296-80f7-5d5a3c90744b"
+            }
+          ],
+          "text": "* Adjusted EPS and free cash flow are non-GAAP financial measures. For a reconciliation of these non-GAAP measures to comparable GAAP measures, see pages 6 and 7 of this annual report.",
+          "uuid": "541a5783-ca92-4934-a082-278cd949f64e"
+        },
+        {
+          "bbox": [
+            201,
+            3156,
+            1130,
+            3203
+          ],
+          "confidence": 0.78,
+          "paragraph_id": 11,
+          "lines": [
+            {
+              "bbox": [
+                201,
+                3156,
+                1130,
+                3203
+              ],
+              "line_id": 1,
+              "text": "Annual Report 2022 M thermofisher.com",
+              "confidence": 0.9,
+              "uuid": "3ff85e39-4388-4e8d-b81e-5f3a224dfccb"
+            }
+          ],
+          "text": "Annual Report 2022 M thermofisher.com",
+          "uuid": "5be4c9c7-57ac-44a1-830d-627badf21945"
+        },
+        {
+          "bbox": [
+            1306,
+            740,
+            2301,
+            839
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 12,
+          "lines": [
+            {
+              "bbox": [
+                1306,
+                740,
+                2301,
+                839
+              ],
+              "line_id": 1,
+              "text": "Our continued success is propelled by our proven growth strategy, which consists of three pillars:",
+              "confidence": 0.9,
+              "uuid": "dc7972f0-4b2a-43e6-92c8-9dcd64f454ee"
+            }
+          ],
+          "text": "Our continued success is propelled by our proven growth strategy, which consists of three pillars:",
+          "uuid": "3853bada-97c4-4bd7-a494-23160e9bb356"
+        },
+        {
+          "bbox": [
+            1345,
+            898,
+            2286,
+            938
+          ],
+          "confidence": 0.77,
+          "paragraph_id": 13,
+          "lines": [
+            {
+              "bbox": [
+                1345,
+                898,
+                2286,
+                938
+              ],
+              "line_id": 1,
+              "text": "\u00ab Developing high-impact, innovative new products",
+              "confidence": 0.9,
+              "uuid": "4e2f50c3-4859-40a8-b477-1d18c806caae"
+            }
+          ],
+          "text": "\u00ab Developing high-impact, innovative new products",
+          "uuid": "856eb641-7e1e-47eb-95aa-a76b17dc8afa"
+        },
+        {
+          "bbox": [
+            1345,
+            996,
+            2305,
+            1087
+          ],
+          "confidence": 0.78,
+          "paragraph_id": 14,
+          "lines": [
+            {
+              "bbox": [
+                1345,
+                996,
+                2305,
+                1087
+              ],
+              "line_id": 1,
+              "text": "\u00ab Leveraging our scale in high-growth and emerging markets",
+              "confidence": 0.9,
+              "uuid": "f13d767a-6875-4975-81f2-1cbdcfb175cd"
+            }
+          ],
+          "text": "\u00ab Leveraging our scale in high-growth and emerging markets",
+          "uuid": "775285d2-0394-4874-a7d2-9a585395b40c"
+        },
+        {
+          "bbox": [
+            1345,
+            1154,
+            2381,
+            1193
+          ],
+          "confidence": 0.8,
+          "paragraph_id": 15,
+          "lines": [
+            {
+              "bbox": [
+                1345,
+                1154,
+                2381,
+                1193
+              ],
+              "line_id": 1,
+              "text": "\u00ab Delivering a unique value proposition to our customers",
+              "confidence": 0.9,
+              "uuid": "35713825-08eb-4c78-99e6-74f0c9dc43eb"
+            }
+          ],
+          "text": "\u00ab Delivering a unique value proposition to our customers",
+          "uuid": "7b9c9ebd-da33-4541-a170-a0206e9ddac7"
+        },
+        {
+          "bbox": [
+            1305,
+            1252,
+            2377,
+            1470
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 16,
+          "lines": [
+            {
+              "bbox": [
+                1305,
+                1252,
+                2377,
+                1470
+              ],
+              "line_id": 1,
+              "text": "We continued to execute this strategy during 2022, and the investments we\u2019ve made are driving growth and generating strong returns. I'll review our progress within the three pillars.",
+              "confidence": 0.9,
+              "uuid": "09505f03-daad-4347-91e7-dd151fa8f214"
+            }
+          ],
+          "text": "We continued to execute this strategy during 2022, and the investments we\u2019ve made are driving growth and generating strong returns. I'll review our progress within the three pillars.",
+          "uuid": "f8fa419c-ee7b-474d-a19a-1b592179ac4b"
+        },
+        {
+          "bbox": [
+            1306,
+            1575,
+            2081,
+            1615
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 17,
+          "lines": [
+            {
+              "bbox": [
+                1306,
+                1575,
+                2081,
+                1615
+              ],
+              "line_id": 1,
+              "text": "Commitment to high-impact innovation",
+              "confidence": 0.9,
+              "uuid": "e959fed7-0c9e-433d-8697-acf5d6d9dc8a"
+            }
+          ],
+          "text": "Commitment to high-impact innovation",
+          "uuid": "1caca2db-88ea-4c7b-9855-e2a6ecd6d48b"
+        },
+        {
+          "bbox": [
+            1306,
+            1655,
+            2354,
+            1870
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 18,
+          "lines": [
+            {
+              "bbox": [
+                1306,
+                1655,
+                2354,
+                1870
+              ],
+              "line_id": 1,
+              "text": "Beginning with the first pillar, our focus on high- impact innovation enables our customers to address some of the world\u2019s greatest challenges, and in 2022, we invested $1.5 billion in R&D to deliver new",
+              "confidence": 0.9,
+              "uuid": "39f3b3b4-4ace-483e-921d-2f8b962d27a2"
+            }
+          ],
+          "text": "Beginning with the first pillar, our focus on high- impact innovation enables our customers to address some of the world\u2019s greatest challenges, and in 2022, we invested $1.5 billion in R&D to deliver new",
+          "uuid": "6f3d0334-7088-430a-9a45-5bc1c45905eb"
+        },
+        {
+          "bbox": [
+            1652,
+            2046,
+            2396,
+            2684
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 19,
+          "lines": [
+            {
+              "bbox": [
+                1652,
+                2046,
+                2396,
+                2684
+              ],
+              "line_id": 1,
+              "text": " ",
+              "confidence": 0.9,
+              "uuid": "1bfae977-80a1-4734-b34e-8a6ced4582a2"
+            }
+          ],
+          "text": " ",
+          "uuid": "1cdfc1ed-1567-4c7d-b2b3-3f7c066e68dd"
+        },
+        {
+          "bbox": [
+            1306,
+            2747,
+            1873,
+            2856
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 20,
+          "lines": [
+            {
+              "bbox": [
+                1306,
+                2747,
+                1873,
+                2856
+              ],
+              "line_id": 1,
+              "text": "Marc N. Casper Chairman, President and CEO",
+              "confidence": 0.9,
+              "uuid": "000d25a9-8ac7-4d27-b735-b41d243522ae"
+            }
+          ],
+          "text": "Marc N. Casper Chairman, President and CEO",
+          "uuid": "f9f9c235-0d1b-4f69-a804-2ac29a9fc5e2"
+        }
+      ],
+      "signatures": [],
+      "stamps": [],
+      "tables": [],
+      "page": 1
+    }
+  ],
+  "raw_file_id": "-",
+  "raw_file_name": "-"
+}

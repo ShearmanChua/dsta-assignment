@@ -90,9 +90,9 @@ class TesseractResultTransformer:
             if len(row['text']):
                 block_num = row['block_num']
                 par_num = row['par_num']
-                line_num = row['line_num']
+                # line_num = row['line_num']
                 # check if new block, paragraph or line has started
-                if block_num != previous_block_num or par_num != previous_par_num or line_num != previous_line_num:
+                if block_num != previous_block_num or par_num != previous_par_num:
                     # check if there are accumulated words and combine them as a paragraph
                     if current_word_list:
                         customized_paragraphs = cls.get_one_line_paragraph_list(current_word_list,
@@ -127,7 +127,7 @@ class TesseractResultTransformer:
 
                 previous_block_num = row['block_num']
                 previous_par_num = row['par_num']
-                previous_line_num = row['line_num']
+                # previous_line_num = row['line_num']
 
         if current_word_list:
             # for last line
@@ -156,16 +156,47 @@ class TesseractResultTransformer:
     def get_one_line(cls, bbox_list, word_list, line_idx):
         bbox = cls.stack_bbox(bbox_list)
         text = ' '.join(word_list)
-        # todo: Question 8
 
-        line = {'bbox': bbox,
-                # 'char_height': char_height,
-                # 'char_width': char_width,
-                # 'chars': {'text': char_list,
-                #           'x0_list': char_x0_list},
-                'line_id': line_idx,
-                'text': text
-                }
+        # Calculate character-level information
+        char_list = []
+        x0_list = []
+        total_char_height = 0
+        total_char_width = 0
+        total_chars = 0
+
+        for word, bbox in zip(word_list, bbox_list):
+            x0 = bbox[0]
+            char_height = bbox[3] - bbox[1]
+            total_char_height += char_height * len(word)
+            
+            for char in word + ' ':  # Include space after each word
+                char_width = (bbox[2] - bbox[0]) / len(word)
+                if char != ' ':  # Avoid counting space width as part of the word width
+                    char_list.append(char)
+                    x0_list.append(x0)
+                    total_char_width += char_width
+                    total_chars += 1
+                    x0 += char_width
+
+
+        if total_chars > 0:
+            char_height = round(total_char_height / total_chars, 2)
+            char_width = round(total_char_width / total_chars, 2)
+        else:
+            char_height = 0.0
+            char_width = 0.0
+
+        line = {
+            'bbox': bbox,
+            'char_height': char_height,
+            'char_width': char_width,
+            'chars': {
+                'text': char_list,
+                'x0_list': x0_list
+            },
+            'line_id': line_idx,
+            'text': text
+        }
         return [line]
 
     @classmethod
